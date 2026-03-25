@@ -279,15 +279,31 @@ Verification: SUCCESS!
 ```
 Cryptography-and-Network-Security-Lab/
 │
-├── Program1_XOR.c
-├── Program2_Bitwise.c
-├── Program3_DES.java               (DESLearningExample.java)
-├── Program4_RSA.java               (SimpleRSA.java)
-├── Program5a_CaesarCipher.java
-├── Program5b_HillCipher.java
-├── Program6_Blowfish.c
-├── Program7_SHA1.java              (SHA1Digest.java)
-├── Program8_DiffieHellman.html
+├── Exp-1_XOR_Bitwise/
+│   └── Program1_XOR.c
+│
+├── Exp-2_Bitwise_Operations/
+│   └── Program2_Bitwise.c
+│
+├── Exp-3_DES/
+│   └── DESLearningExample.java
+│
+├── Exp-4_RSA/
+│   └── SimpleRSA.java
+│
+├── Exp-5_Classical_Ciphers/
+│   ├── CaesarCipher.java           (5a)
+│   └── HillCipher.java             (5b)
+│
+├── Exp-6_Blowfish/
+│   └── Program6_Blowfish.c
+│
+├── Exp-7_SHA1/
+│   └── SHA1Digest.java
+│
+├── Exp-8_DiffieHellman/
+│   └── DiffieHellman.html
+│
 └── README.md
 ```
 
