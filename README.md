@@ -311,7 +311,7 @@ Cryptography-and-Network-Security-Lab/
 
 ## 👤 Author
 
-**Muralidhar**
+**Dasari Muralidhar**
 🔗 GitHub: [@muralidhar24](https://github.com/muralidhar24)
 
 ---
