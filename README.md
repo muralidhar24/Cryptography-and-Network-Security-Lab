@@ -12,8 +12,8 @@
 ## 📚 Table of Contents
 
 - [Lab Programs](#-lab-programs)
-- [Prerequisites & Setup](#-prerequisites--setup)
-- [How to Run](#-how-to-run)
+- [Prerequisites & Setup](#-prerequisites-&-setup)
+- [How to Run](#-How-to-run)
 - [Program Descriptions](#-program-descriptions)
 - [Sample Outputs](#-sample-outputs)
 - [Key Concepts](#-key-concepts)
@@ -223,7 +223,7 @@ Run directly in any browser — no server needed.
 
 ---
 
-## 🖥️ Sample Outputs
+## 🖥️ sample outputs
 
 ### Caesar Cipher
 ```
